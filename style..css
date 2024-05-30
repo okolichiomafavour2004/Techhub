@@ -1,0 +1,39 @@
+body {
+    background-color: blueviolet;
+}
+/* .username{
+    width: 200px;
+    height: 10px;
+    padding: 20px;
+    border-radius: 30px;
+    border: none;
+} */
+#email{
+    width: 200px;
+    height: 10px;
+    padding: 20px;
+    border-radius: 30px;
+    border: none;
+    border-style: solid;
+    margin: 10px 0 0 0;
+    font-size: 15px;
+}
+#password{
+    width: 200px;
+    height: 10px;
+    padding: 20px;
+    border-radius: 30px;
+    border: none;
+    margin: 10px 0 10px 0;
+}
+#comfimpassword {
+    width: 200px;
+    height: 10px;
+    padding: 20px;
+    border-radius: 30px;
+    border: none;
+    margin: 15px  0 10px 0;
+}
+[type="text"] {
+    
+}
